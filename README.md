@@ -19,12 +19,15 @@ The purpose of this project is to create an application for someone to take note
 This program requires Node.Js, NPM, & Express
 
 ## Usage
+
 https://rylees-notebook-738088f4224f.herokuapp.com/
 https://github.com/Rylee94/express-note-taker
+![Note Taker](./public/assets/images/Screenshot%202023-07-24%20174942sasa.png)
 
 ## Credits
 
-N/A
+Starter code from EdX Bootcamps
+Web Dev Simplified @ YouTube
 
 ## License
 
